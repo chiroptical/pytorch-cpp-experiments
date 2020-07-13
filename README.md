@@ -15,7 +15,7 @@ cmake --build . --config Release
 Next Steps
 ----------
 
-- Get a basic class built for building a model
+- Get a basic class built for running a model
 - Wrap class in pybind11
 - Call pybind11 wrapped model with actual Torch inputs
 - Benchmark for any differences
